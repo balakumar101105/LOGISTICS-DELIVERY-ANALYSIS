@@ -59,6 +59,20 @@ PostgreSQL was used to analyze:
 
 ##  Power BI Dashboard
 
+## Power BI Dashboard
+
+### Executive Overview
+![Executive Overview](dashboard_overview.png)
+
+### Delay Analysis
+![Delay Analysis](delay_analysis.png)
+
+### Cost & Efficiency
+![Cost & Efficiency](cost_and_efficiency.png)
+
+### Performance Deep Dive
+![Performance Deep Dive](performance.png)
+
 The Power BI dashboard was created to provide an interactive view of:
 
 Total deliveries
